@@ -6,6 +6,15 @@
       "@/*": [
         "./src/*"
       ],
+      "@/storage/*": [
+        "./src/app/storage/*"
+      ],
+      "@/components/*": [
+        "./src/app/components/*"
+      ],
+      "@/styles/*": [
+        "./src/app/styles/*"
+      ],
       "@/assets/*": [
         "./assets/*"
       ]
