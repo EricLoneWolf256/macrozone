@@ -115,3 +115,7 @@ The full step-by-step guide with all the code for the crash course is available 
 ## License
 
 MIT
+
+Then you would run the following to build:
+
+eas build --platform android --profile preview
