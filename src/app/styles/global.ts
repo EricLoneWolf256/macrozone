@@ -34,10 +34,9 @@ export const globalStyles = StyleSheet.create({
     fontSize: 14,
   },
   header: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-  },
-
+  flexDirection: 'row',
+  alignItems: 'center',
+  justifyContent: 'space-between',
+},
   
 });
